@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+
+p, h1 {text-align: center;}
+.iknowthatitshardtodo {display: block; margin-left: auto; margin-right: auto;}
+.a {color: red;}
+.b {color: pink;}
+.c {color: green;}
+.d {color: purple;}
+.omommy {color: blue;}
+.finishhim {font-size: 80px; background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;}
+</style>
+</head>
+<body style="background-image: url(SPOONEKE/SPOONEK.png);">
+<img src="SPOONEKE/Happe borth doinek spoonerke.png" class="iknowthatitshardtodo"></img>
+<p class="c"> HAPPY BIRTHDOYEK SPOONE!!</p>
+<p class="a">GOOD JOB ON ESCAPING THE WOOMB OF YO MOMMA!!!!!!!!!!</p>
+<p class="d">WE ARE PROUD OF YOU!!!!!!!!!!!</p>
+<p class="b">WE HOPE YOU HAVE A WONDERFUL BDAY!!!!</p>
+<p class="d"> YOU DESERVE TO BE HAPPY!!! WE LOVE YOU (PLATONICALLY)!!!!!!!!</p>
+<p class="omommy"> AGAIN, HAPPIEST OF BDAYS!!!!!! </p>
+<h1 class="finishhim"> No, genuinely, we love you so much, man. I hope you have a wonderful birthday and that you stay happy, always, for forever :D </h1>
+</body>
+</html>
